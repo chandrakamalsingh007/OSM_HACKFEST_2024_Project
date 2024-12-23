@@ -8,4 +8,7 @@ The idea is to create a simple web application that allows users to search for h
 3.Accessibility information<br>
 4.Community engagement, where users can add their own reviews and experiences and also give information about local events,festivals.<br>
 5.Sustainability aspects, such as conservation efforts or environmental impact related to the site.<br><br>
-The platform will also feature a filtering system based on themes like accessibility, family-friendly sites, or sites related to specific cultural groups. To ensure inclusivity, it will offer an option for people with different needs to find heritage sites that accommodate them, fostering more equal access to cultural education. 
+The platform will also feature a filtering system based on themes like accessibility, family-friendly sites, or sites related to specific cultural groups.
+To ensure inclusivity, it will offer an option for people with different needs to find heritage sites that accommodate them, fostering more equal access to cultural education.
+
+
